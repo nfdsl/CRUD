@@ -57,23 +57,3 @@ Este é um projeto de um sistema simples de gerenciamento de livros, desenvolvid
 
 3. **`api.js`**
    - Configuração do Axios para facilitar chamadas à API.
-
----
-
-## 🖥️ Como Rodar o Projeto?
-
-### **Pré-requisitos**
-Certifique-se de ter instalado:
-- **Node.js** (v16 ou superior)
-- **MySQL**
-- **NPM** ou **Yarn**
-
----
-
-### **Passo a Passo**
-
-#### Backend
-1. Instale as dependências:
-   ```bash
-   cd backend
-   npm install
